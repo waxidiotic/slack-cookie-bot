@@ -1,10 +1,9 @@
 @app
-begin-app
+slack-cookie-bot
 
 @http
-get  /todos
-post /todos
-post /todos/delete
+get /cookies
+post /cookies
 
 @tables
 data
